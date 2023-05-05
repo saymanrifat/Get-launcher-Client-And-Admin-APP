@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Get Launcher</string>
+    <string name="title_activity_home_screen">HomeScreenActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kamal Hossain</string>
+    <string name="nav_header_subtitle">kamal.hossain@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="share_app">Share me</string>
+    <string name="terms_and_condition">Terms and Conditions</string>
+</resources>

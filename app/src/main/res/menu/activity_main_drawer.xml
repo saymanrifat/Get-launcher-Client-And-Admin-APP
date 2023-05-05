@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_screen_action"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/shareApp"
+            android:icon="@drawable/baseline_share_24"
+            android:title="@string/share_app" />
+        <item
+            android:id="@+id/tac_action"
+            android:icon="@drawable/baseline_policy_24"
+            android:title="@string/terms_and_condition" />
+    </group>
+</menu>
